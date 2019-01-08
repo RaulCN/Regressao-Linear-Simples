@@ -4,6 +4,8 @@
 # In[1]:
 
 # Seguindo este tutorial  https://www.youtube.com/watch?v=9uS0qiMeZu0&index=5&list=PLbmt8d_ueDMVUVlw9VZSdgAIi6W3u-7Zg
+# Versão no collaboratory https://colab.research.google.com/drive/1hG77wMKlnvKjsIKxgFHL3hJDvbUic96p
+
 
 import numpy as np
 import matplotlib.pyplot as plt
